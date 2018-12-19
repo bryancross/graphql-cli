@@ -4,6 +4,8 @@
 
 ## Features
 
+Here's some tstuff
+
 - Helpful commands to improve your workflows like `get-schema`, `diff` & `playground`
 - Compatible with editors and IDEs based on [`graphql-config`](https://github.com/graphcool/graphql-config)
 - Powerful plugin system to extend `graphql-cli` with custom commands
